@@ -25,3 +25,4 @@
 024 Return an English translated sentence of the passed binary string. The binary string will be space separated. <br/>
 025 Check if the predicate (second argument) is truthy on all elements of a collection (first argument).<br/>
 026 Create a function that sums two arguments together. If only one argument is provided, then return a function that expects one argument and returns the sum. <br/>
+027 Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num. <br/>
