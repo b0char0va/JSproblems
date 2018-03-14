@@ -3,18 +3,16 @@ function sumFibs(num) {
     var num1=1;
     var num2=0;
     var n=0;
-    var myArr=[1];
+    var sum=1;
     while(n<num){
         n = num1 + num2;
         num2 = num1;
         num1 = n;
         if(n<=num && n%2 !==0) {
-            myArr.push(n);
+            sum+=n;
         }
     }
-    return myArr.reduce(function(a,b){
-        return a+b;
-    });
+    return sum;
 }
 
 console.log(sumFibs(10));
