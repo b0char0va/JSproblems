@@ -28,3 +28,5 @@
 027 Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num. <br/>
 029 Search the array for Object's key and properties in second argument and returns the object/s from the array which has the second argument's keys and properties. <br/>
 030 Sum all primes up to and including the provided number.<br/>
+031 Convert the given number into a roman numeral. <br/>
+032 Find the smallest common multiple of the provided parameters that can be evenly divided by both, as well as by all sequential numbers in the range between these parameters. <br/>
